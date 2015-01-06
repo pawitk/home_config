@@ -11,5 +11,6 @@ Plugin 'jeetsukumaran/vim-buffergator'
 Plugin 'tristen/vim-sparkup'
 Plugin 'Lokaltog/vim-easymotion'
 Plugin 'tpope/vim-surround'
+Plugin 'airblade/vim-gitgutter'
 
 filetype plugin indent on
