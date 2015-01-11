@@ -15,3 +15,5 @@ Plugin 'airblade/vim-gitgutter'
 Plugin 'kien/ctrlp.vim'
 
 filetype plugin indent on
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlP'
