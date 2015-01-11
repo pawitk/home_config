@@ -12,5 +12,6 @@ Plugin 'tristen/vim-sparkup'
 Plugin 'Lokaltog/vim-easymotion'
 Plugin 'tpope/vim-surround'
 Plugin 'airblade/vim-gitgutter'
+Plugin 'kien/ctrlp.vim'
 
 filetype plugin indent on
