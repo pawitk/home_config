@@ -13,6 +13,7 @@ Plugin 'Lokaltog/vim-easymotion'
 Plugin 'tpope/vim-surround'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'kien/ctrlp.vim'
+Plugin 'rking/ag.vim'
 
 filetype plugin indent on
 let g:ctrlp_map = '<c-p>'
